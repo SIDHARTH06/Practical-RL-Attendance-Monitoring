@@ -45,8 +45,8 @@ export default function Index(){
               router.push({ pathname: './user', query:{id : searchResult.id}}, '/user')
 
             }}>
-              <h1 className="h3 mb-3 font-weight-normal">Transformer Epiphany </h1>
-              <h1 className="h3 mb-3 font-weight-normal"> Workshop </h1>
+              <h1 className="h3 mb-3 font-weight-normal">Practical Workshop on </h1>
+              <h1 className="h3 mb-3 font-weight-normal"> Reinforcement Learning </h1>
               <Image className="mb-4" src="/WorkshopLogo.jpeg" alt="" width="150" height="150"/>
               <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
               <label htmlFor="inputEmail" className="h6 sr-only"> Registered Email address </label>
