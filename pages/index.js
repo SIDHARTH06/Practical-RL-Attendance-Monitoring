@@ -47,7 +47,7 @@ export default function Index(){
             }}>
               <h1 className="h3 mb-3 font-weight-normal">Practical Workshop on </h1>
               <h1 className="h3 mb-3 font-weight-normal"> Reinforcement Learning </h1>
-              <Image className="mb-4" src="/WorkshopLogo.jpeg" alt="" width="150" height="150"/>
+              <Image className="mb-2" src="/WorkshopLogo.jpeg" alt="" width="150" height="160"/>
               <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
               <label htmlFor="inputEmail" className="h6 sr-only"> Registered Email address </label>
               
